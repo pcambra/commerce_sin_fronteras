@@ -1143,7 +1143,13 @@ aside.gdbar {
 
 /* Custom classes */
 .bg-read {
-  background-color: $gray-3;
+  background-color: $gray-4;
+  opacity: 0.9;
+  padding: 15px;
+}
+
+.bg-read-white {
+  background-color: #FFF;
   opacity: 0.9;
   padding: 15px;
 }
@@ -1151,4 +1157,11 @@ aside.gdbar {
 .portrait {
   height: 180px;
   width: 180px;
+}
+
+#video_background {
+  top: -140px;
+  right: 145px;
+  position: fixed;
+  z-index: -1;
 }

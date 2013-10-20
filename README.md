@@ -1,12 +1,10 @@
-<h1>Drupal 8: Undercover initiatives</h1>
+<h1>Drupal Commerce sin fronteras</h1>
 
-Slides for the presentation "Drupal 8: Undercover initiatives" which outlines Drupal 8 features that doesn't necessarily belong to an official initiative but are really relevant.
+Slides de la charla Drupal Commerce sin fronteras para la Drupalcamp Spain 2013 en cáceres.
 
-Presented at:
-* [Drupal day Santander 2013](http://2013.drupalday.es) by [Pedro Cambra](https://twitter.com/pcambra)
-* [Drupal Brighton user group in September 2013](https://groups.drupal.org/node/315543) by [Pedro Cambra](https://twitter.com/pcambra)
+Thanks to Bojan Zivanovic for the inspiration in https://github.com/bojanz/commerce-without-borders & http://www.youtube.com/watch?v=2P9ZR9tixEY
 
-This git repository is a fork of the [Google IO 2013 slide deck](https://code.google.com/p/io-2013-slides). 
+This git repository is a fork of the [Google IO 2013 slide deck](https://code.google.com/p/io-2013-slides).
 As such, many of the files still contain references to Google and IO 2103.
 
-Access the presentation: http://pcambra.github.io/d8undercover
+Access the presentation: http://pcambra.github.io/commerce_sin_fronteras
