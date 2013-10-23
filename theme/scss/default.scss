@@ -52,7 +52,6 @@ $article-content-top-padding: 25px;
 }
 
 
-
 /**
  * Theme Styles
  */
@@ -317,7 +316,8 @@ h1, h2, h3 {
 }
 
 h2 {
-  font-size: 60px;
+  font-size: 75px;
+  font-family: 'SourceSansPro Regular', 'Open Sans', Arial, sans-serif;
   line-height: 60px;
   letter-spacing: -2px;
   color: $gray-4;
@@ -984,7 +984,8 @@ aside.gdbar {
     bottom: 100px;
 
     h1 {
-      font-size: 65px;
+      font-size: 85px;
+      font-family: 'SourceSansPro Regular', 'Open Sans', Arial, sans-serif;
       line-height: 1.4;
       letter-spacing: -3px;
       color: $gray-4;
@@ -1164,4 +1165,17 @@ aside.gdbar {
   right: 145px;
   position: fixed;
   z-index: -1;
+}
+
+@font-face {
+  font-family: "SourceSansPro Regular";
+  src: url("../fonts/SourceSansPro-Regular.otf");
+}
+
+.custom-font  {
+  font-family: 'SourceSansPro Regular', 'Open Sans', Arial, sans-serif;
+}
+
+.about-me {
+  font-size: 55px;
 }
